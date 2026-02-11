@@ -1,0 +1,10 @@
+{
+  "name": "preview-test-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
